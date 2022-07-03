@@ -1,0 +1,9 @@
+
+Bank Output
+--------------------------------------------------------------
+Total months: 86
+Total Budget: 22564198
+Average Change: $-8311.105882352942
+Greatest Increase month and $: $Aug-16 : 1862002
+Greatest Decrease month and $: $Feb-14 : -1825558
+--------------------------------------------------------------
