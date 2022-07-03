@@ -16,7 +16,7 @@ import csv
 # Pull csv file in the program
 csvpath = os.path.join('..', 'PyBank/Resources', 'budget_data.csv')
 # Create output file to store output
-outputfile = os.path.join('..', 'PyBank/Resources', 'PyBankOutput.txt')
+outputfile = os.path.join('..', 'PyBank/analysis', 'PyBankOutput.txt')
 
 with open(csvpath) as csvfile:
 
