@@ -19,7 +19,7 @@ import csv
 # Pull csv file in the program
 csvpath = os.path.join('..', 'PyPoll/Resources', 'election_data.csv')
 # Create output file to store output
-outputfile = os.path.join('..', 'PyPoll/Resources', 'PyPollOutput.txt')
+outputfile = os.path.join('..', 'PyPoll/analysis', 'PyPollOutput.txt')
 
 # Declare variables
 totalNumberOfVotes = 0 # Total number votes
